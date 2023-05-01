@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQ4J26CTNwvVcUG24fbsSneGWPI9pRjeZfaqgbZubuPcavwf5oeAl2nLVqbYc3eaRdmMwyM85dQUZZU6JTnpLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egure\\source\\repos\\WebScrap\\WebScrap\\WebScrap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egure\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

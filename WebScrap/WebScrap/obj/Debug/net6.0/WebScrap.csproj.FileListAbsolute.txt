@@ -1,0 +1,17 @@
+C:\Users\egure\source\repos\WebScrap\WebScrap\bin\Debug\net6.0\WebScrap.exe
+C:\Users\egure\source\repos\WebScrap\WebScrap\bin\Debug\net6.0\WebScrap.deps.json
+C:\Users\egure\source\repos\WebScrap\WebScrap\bin\Debug\net6.0\WebScrap.runtimeconfig.json
+C:\Users\egure\source\repos\WebScrap\WebScrap\bin\Debug\net6.0\WebScrap.dll
+C:\Users\egure\source\repos\WebScrap\WebScrap\bin\Debug\net6.0\WebScrap.pdb
+C:\Users\egure\source\repos\WebScrap\WebScrap\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.csproj.AssemblyReference.cache
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.AssemblyInfoInputs.cache
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.AssemblyInfo.cs
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.csproj.CoreCompileInputs.cache
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.csproj.CopyComplete
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.dll
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\refint\WebScrap.dll
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.pdb
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\WebScrap.genruntimeconfig.cache
+C:\Users\egure\source\repos\WebScrap\WebScrap\obj\Debug\net6.0\ref\WebScrap.dll
